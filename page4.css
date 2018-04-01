@@ -1,0 +1,51 @@
+body{
+	font-size:16px;
+}
+
+.profile-pic{
+	height:40px;
+	width:40px;
+	margin-top: 10px;
+	float: left;
+	padding-left: 2px;
+}
+
+.user-pic{
+  height:50px;
+	width:50px;
+	margin-right: 20px;
+	float: left;
+}
+
+
+.picture{
+	width: 350px; 
+	height: 350px;
+	margin-top:16vh;
+}
+
+.right_col_text .display-4  {
+	margin-top: 5vh;
+	font-size: 3rem;
+	text-align: center;
+}
+
+.right_col_text  p{
+	margin: 0vh 15vw;
+	text-align: center;
+}
+
+.right_column{
+	background-color: #F7F9FA
+}
+.row .left_column .left_column_navbar{
+	margin: 1vh 0vw;
+}
+
+
+.list-group-item{
+	padding-bottom: 0px;
+}
+
+
+

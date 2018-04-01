@@ -1,0 +1,80 @@
+body{
+  font-size:16px;
+}
+
+.right_col_text .display-4  {
+  margin-top: 5vh;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.right_col_text  p{
+  margin: 0vh 15vw;
+  text-align: center;
+  font-weight:bolder;
+}
+
+.right_column{
+ background-image: url(images/whatsapp-back-image.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+.display-4{
+	font-weight: bold;
+	font-family: monospace;
+}
+
+
+.left_column{
+	background-color: cadetblue;
+}
+
+.row .left_column .left_column_navbar{
+  margin: 1vh 0vw;
+}
+
+.profile-pic{
+  height:40px;
+  width:50px;
+  margin-top: 10px;
+  float: left;
+  padding-left: 2px;
+}
+
+.badge{
+  margin-left:10px;
+}
+
+.user-pic{
+  height:50px;
+  width:50px;
+  margin-right: 20px;
+  float: left;
+}
+
+.list-group-item{
+  padding-bottom: 0px;
+}
+
+.new_chat_icon{
+  height: 40px;
+  width: 40px;
+  margin-top: 2px;
+}
+
+.time-meta{
+  text-align: right;
+  font-size: 14px;
+}
+
+.picture{
+  width: 350px; 
+  height: 350px;
+  margin-top:16vh;
+}
+
+
+

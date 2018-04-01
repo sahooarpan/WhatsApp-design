@@ -1,0 +1,41 @@
+:root{
+	font-size: 16px;
+	text-decoration:none;
+}
+
+
+.card-body{
+	color:mediumblue;
+	font-size: 1.2rem;
+}
+
+
+.background {
+	background-color: lightcyan;
+}
+
+.card {
+	background-color:aquamarine;
+}
+
+.text-muted {
+	padding-left: 350px;
+}
+
+.nav{
+	background-color: blue;
+	font-size:1.8rem;
+	
+}
+
+.mute_text{
+	background-color: lightblue;
+	color:#00bfa5;
+	font-size: 1.2rem;
+}
+
+.card-body{
+	color:mediumblue;
+	font-size: 1.2rem;
+}
+
